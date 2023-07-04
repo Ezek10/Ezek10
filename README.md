@@ -18,9 +18,9 @@
 
 ## ⚡ Technologies
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&color=white)
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-red?style=flat-square&logo=sentry)
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-white?style=flat-square&logo=githubactions)
