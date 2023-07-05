@@ -25,6 +25,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-white?style=flat-square&logo=githubactions)
 ![AWS](https://img.shields.io/badge/AWS-white?style=flat-square&logo=amazon)
-
+![DynamoDB](https://img.shields.io/badge/DynamoDB-blue?style=flat-square&logo=amazondynamodb)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ezek10.Ezek10)
