@@ -7,8 +7,9 @@
 
 
 ## ⚡ Projects
-- [Resume Web Page made with FastApi and Hexagonal Architecture](https://github.com/Ezek10/Resume_with_FastApi)
+- [Finance App via WhatsApp with FastApi and Hexagonal Architecture](https://github.com/Ezek10/Finanzaswp)
 - [Snake Videogame for WebGL made with Unity and C#](https://github.com/Ezek10/Snake-WebGL)
+- [Technical Interview with FastAPI and Docker](https://github.com/Ezek10/interview_1)
 
 
 ## ⚡ Studies
