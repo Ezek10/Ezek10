@@ -1,7 +1,7 @@
 ### Hi there 👋, If you have a cool project that involves python development, let's talk!
 
 ## 📫 How to reach me: ...
-[![Linkedin Badge](https://img.shields.io/badge/-EzeMarcel-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequiel-marcel-66656a1a0)](https://www.linkedin.com/in/ezequiel-marcel-66656a1a0)
+[![Linkedin Badge](https://img.shields.io/badge/-EzeMarcel-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequielmarcel)](https://www.linkedin.com/in/ezequielmarcel)
 [![Gmail Badge](https://img.shields.io/badge/-ezequielmarcel2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezequielmarcel2@gmail.com)](mailto:ezequielmarcel@gmail.com)
 [![My Website](https://img.shields.io/badge/my%20website-purple)](https://ezequielmarcel1.odoo.com/)
 
